@@ -1,0 +1,136 @@
+body {
+  background: lightgray;
+  text-align: center
+}
+p {
+  color: black;
+}
+a {
+  border-style: double;
+  border-radius: 15px;
+  background: #696969;
+  border-color: #000000;
+  color: aliceblue;
+  padding: 10px;
+  text-decoration: none;
+}
+.posterimg {
+  height: 280px;
+  margin: 20px;
+  border-radius: 5px;
+  border-style: double;
+  margin: 20px;
+  border-color: aquamarine
+} 
+.mainh1 {
+  font-weight: bold;
+  text-align: center;
+  font-family: cursive;
+  font-size: 60px;
+}
+.mainh3 {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline
+}
+.mainp {
+  text-align: center;
+  font-size: 25px;
+  border-radius: 5px;
+  background: #878787;
+  border-color: #57bad5;
+  color: #c6f7f4;
+  padding: 5px;
+  border-radius: 10px;
+}
+.mainh5 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 9px;
+}
+.headerexp {
+  text-align: left;
+  font-size: 15px;
+}
+.lalatext {
+text-align: left;
+  font-size: 20px;
+  border-radius: 5px;
+  background: #c84c4c;
+  border-color: #7f0b0b;
+  color: #092e67;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 900px;
+}
+.lalaimg {
+  height: 330px;
+  width: 630px;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  border-style: dotted;
+  border-color: #5b67ee;
+}
+.bladetext {
+  text-align: left;
+  font-size: 20px;
+  border-radius: 5px;
+  background: #b754e0;
+  border-color: #050860;
+  color: #381fa6;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 900px;
+}
+.bladeimg {
+  height: 370px;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  border-style:double;
+  border-color: #07fde9;
+}
+.barbietext {
+  text-align: left;
+  font-size: 20px;
+  border-radius: 5px;
+  background: #fff9f9;
+  border-color: #f246a1;
+  color: #e34d8c;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 900px;
+}
+.barbieimg {
+  height: 370px;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  border-style:dashed;
+  border-color: #e83294;
+}
+.phmtext {
+  text-align: left;
+  font-size: 20px;
+  border-radius: 5px;
+  background: #ed8a47;
+  border-color: #5c4b03;
+  color: #f7ffba;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 900px;
+}
+.phmimg {
+  height: 330px;
+  width: 650px;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  border-style:groove;
+  border-color: #14a119;
+}
